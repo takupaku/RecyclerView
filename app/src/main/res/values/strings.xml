@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+
+
+    <string-array name="student">
+
+        <item>taku</item>
+        <item>paku</item>
+
+        <item>emu</item>
+
+        <item>eclips</item>
+
+        <item>taka</item>
+
+        <item>kit</item>
+
+        <item>coco</item>
+
+        <item>taks</item>
+
+        <item>taku</item>
+        <item>taku</item>
+
+    </string-array>
+
+    <string-array name="edu">
+
+        <item>cse</item>
+        <item>eee</item>
+
+        <item>it</item>
+
+        <item>mechanics</item>
+
+        <item>civil</item>
+
+        <item>archi</item>
+
+        <item>coco</item>
+
+        <item>taks</item>
+
+        <item>taku</item>
+        <item>taku</item>
+
+    </string-array>
+</resources>
